@@ -2,7 +2,7 @@
 
 This is my portfolio (https://blog.rudyyeh.dev/). Built with a bunch of cool technologies:
 
-![](https://skillicons.dev/icons?i=ts,react,tailwind,vite)
+![](https://skillicons.dev/icons?i=js,react,tailwind,vite,three)
 
 - [React](https://reactjs.org/)
 - [Three.js](https://threejs.org/)
