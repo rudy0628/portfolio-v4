@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.highlight1 {
+	background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #90caf9 65%);
+	display: inline;
+}
+
+.highlight2 {
+	background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #658dae 65%);
+	display: inline;
+}
+
+.highlight3 {
+	background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #3a5164 65%);
+	display: inline;
+}
+
+* {
+	user-select: none;
+}
+
+/* deck */
+.deck {
+	position: absolute;
+	top: 250px;
+	left: 0;
+	width: 100%;
+	height: 90%;
+	will-change: transform;
+	display: flex;
+	justify-content: center;
+	touch-action: none;
+	z-index: 10;
+}
+
+.deck > div {
+	background-color: white;
+	background-size: auto 85%;
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 60%;
+	height: 60%;
+	will-change: transform;
+	border-radius: 10px;
+	box-shadow: 0 12.5px 100px -10px rgba(50, 50, 73, 0.4),
+		0 10px 10px -10px rgba(50, 50, 73, 0.3);
+}
+
+.cardImage {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+/* tools color */
+.HTML {
+	color: #e34f26;
+}
+
+.CSS {
+	color: #002561;
+}
+
+.JavaScript {
+	color: #f7df1e;
+}
+
+.NodeJs {
+	color: #6cc24a;
+}
+
+.React {
+	color: #00d8ff;
+}
+
+.GitHub {
+	color: #6e5494;
+}
+
+.MongoDB {
+	color: #589636;
+}
+
+.Bootstrap {
+	color: #511378;
+}
+
+.Sass {
+	color: #cc6699;
+}
+
+.PHP {
+	color: #8892be;
+}
+
+.Android {
+	color: #a4c639;
+}
+
+.NextJs,
+.Zustand {
+	color: #333;
+}
+
+.Sanity {
+	color: #e43b2d;
+}
+
+/* Swiper */
+.swiper {
+	width: 320px;
+	height: 240px;
+}
+
+.swiper-slide {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 22px;
+	font-weight: bold;
+	color: #fff;
+}

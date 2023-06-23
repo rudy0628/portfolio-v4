@@ -1,0 +1,77 @@
+{
+	"utils": {
+		"左右滑動查看更多圖片": "Swipe left and right to see more pictures",
+		"選擇語言": "Choose a language"
+	},
+	"lockPage": {
+		"點擊畫面來解鎖": "Click on the screen to unlock."
+	},
+	"mainPage": {
+		"離開": "Quit",
+		"關於我": "About",
+		"技能": "Skills",
+		"專案": "Projects",
+		"語言": "Language",
+		"App Store": "App Store",
+		"郵件": "Mail",
+		"相機": "Camera",
+		"時鐘": "Clock",
+		"FaceTime": "FaceTime",
+		"iTunes": "iTunes",
+		"訊息": "Message",
+		"電話": "Phone",
+		"照片": "Photo",
+		"Safari": "Safari",
+		"設定": "Setting",
+		"天氣": "Weather"
+	},
+	"aboutPage": {
+		"嗨！我是": "HI！I'm ",
+		"葉世平": "Rudy Yeh",
+		"來自於台北，台灣": "From Taipei, Taiwan",
+		"畢業於": "Graduated from ",
+		"國立高雄科技大學": "National Kaohsiung University of Science and Technology",
+		"主修": "Main is ",
+		"資訊管理": "Information Management",
+		"兩年的": "2 years ",
+		"網頁開發": "Web Develop",
+		"經驗": " experience",
+		"聯絡方式": "Contact me"
+	},
+	"skillsPage": {
+		"專長與技能": "Specialty and Skills",
+		"以下是我目前擁有的專長與技術：": "The following are the expertise and skills I currently have:",
+		"前端技能": "Front-End",
+		"後端技能": "Back-End",
+		"實用工具": "Tools"
+	},
+	"projects": {
+		"開發作品": "Projects",
+		"點擊": "",
+		"兩下": "Double click",
+		"後可以查看更詳細的內容": " to view more detailed content",
+		"點擊前往": "Click to go"
+	},
+	"projectDetail": {
+		"電子商務": "E-commerce",
+		"社群媒體": "Social Media",
+		"實用工具": "Practical Tool",
+		"版型設計": "UI/UX Design",
+		"BigProject": "BigProject",
+		"結合三大功能集結而成的多功能網站，可以訂機票及購買商品並且可以查看動態": "A multi-functional website that combines three major functions, you can book airline tickets and purchase goods and check the dynamics",
+		"I-refri": "I-refri",
+		"社群媒體網站，可以在上面分享您的冰箱內容及查看他人冰箱內容": "Social media sites where you can share the contents of your refrigerator and view the contents of other people's refrigerators",
+		"Shoppingsite": "Shoppingsite",
+		"小型電商網站，可以上傳商品以及擁有購物車系統。使用 Express 實現RESTful API 以及使用 EJS 作為 HTML 樣板": "A small e-commerce website that can upload products and has a shopping cart system. Implement RESTful API with Express and use EJS as HTML boilerplate",
+		"TodoList map": "TodoList map",
+		"傳統 Todo list，結合 Leaflet 開源地圖，以及 Open Weather 顯示天氣，使用 Parcel 打包": "Traditional Todo list, combined with Leaflet open source map, and Open Weather to display the weather, packaged with Parcel",
+		"台灣即時天氣查詢": "Realtime Taiwan Weather",
+		"小型氣象查詢系統，可以查詢台灣各城市即時天氣資訊": "Small weather query system, you can query real-time weather information of various cities in Taiwan",
+		"Airtshop": "Airtshop",
+		"使用 React、Redux 開發機票訂購網站，擁有會員系統，可使用 Google 及 Facebook 登入": "Use React and Redux to develop an airline ticket ordering website with a membership system that can be logged in with Google and Facebook",
+		"Youtube 頁面複製": "Youtube Page Clone",
+		"使用 Sass 複製 Youtube 首頁，有 RWD 設計": "Clone Youtube homepage with Sass, with RWD design",
+		"Youtube 筆記擴充元件": "Youtube Note Extension",
+		"使用 React 搭配 Bootstrap 開發 Chrome 擴充元件，可在 Youtube 時間軸上使用文字筆記": "Use React with Bootstrap to develop Chrome extension, you can use text notes on the Youtube timeline"
+	}
+}
