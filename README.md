@@ -25,3 +25,4 @@ This is my portfolio (https://blog.rudyyeh.dev/). Built with a bunch of cool tec
 - [ ] Add the UI icon with my blog site.
 - [ ] Adding more 3d model e.g. planet,spaceshio or some other space things...
 - [ ] Disable moving the camera x and y position by using mobile device.
+- [ ] Disable the text input in language select.
