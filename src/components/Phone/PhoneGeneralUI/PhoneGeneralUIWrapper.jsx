@@ -18,7 +18,7 @@ const PhoneGeneralUIWrapper = ({
 		<div
 			className={twMerge(
 				'w-full h-full py-4 px-6 bg-cover bg-center',
-				bgDisabled ? '' : "bg-[url('/bg-phone.jpeg')]",
+				bgDisabled ? '' : "bg-[url('/bg-phone.webp')]",
 				className
 			)}
 			onPointerDown={e => e.stopPropagation()}

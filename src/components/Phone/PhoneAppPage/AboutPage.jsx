@@ -31,7 +31,7 @@ const AboutPage = () => {
 					{/* avatar */}
 					<div className="h-[10rem] w-[10rem] rounded-full overflow-hidden">
 						<img
-							src="/rudy.jpg"
+							src="/rudy.webp"
 							alt="rudy"
 							className="w-full h-full object-cover"
 						/>

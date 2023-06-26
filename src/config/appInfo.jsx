@@ -13,7 +13,7 @@ export const appUIInfo = [
 	},
 	{
 		id: 'about',
-		appBg: <img src="/rudy.jpg" alt="rudy" className="z-5" />,
+		appBg: <img src="/rudy.webp" alt="rudy" className="z-5" />,
 		appName: '關於我',
 	},
 	{
@@ -48,7 +48,7 @@ export const defaultAppUIInfo = [
 		appIcon: (
 			<div className="w-[72px] h-[72px]">
 				<img
-					src="/phoneApp/app-store.png"
+					src="/phoneApp/app-store.webp"
 					alt="app_store"
 					className="w-full h-full object-contain"
 				/>
@@ -62,7 +62,7 @@ export const defaultAppUIInfo = [
 		appIcon: (
 			<div className="w-[72px] h-[72px]">
 				<img
-					src="/phoneApp/mail.png"
+					src="/phoneApp/mail.webp"
 					alt="mail"
 					className="w-full h-full object-contain"
 				/>
@@ -76,7 +76,7 @@ export const defaultAppUIInfo = [
 		appIcon: (
 			<div className="w-[72px] h-[72px]">
 				<img
-					src="/phoneApp/camera.png"
+					src="/phoneApp/camera.webp"
 					alt="camera"
 					className="w-full h-full object-contain"
 				/>
@@ -90,7 +90,7 @@ export const defaultAppUIInfo = [
 		appIcon: (
 			<div className="w-[72px] h-[72px]">
 				<img
-					src="/phoneApp/clock.png"
+					src="/phoneApp/clock.webp"
 					alt="clock"
 					className="w-full h-full object-contain"
 				/>
@@ -104,7 +104,7 @@ export const defaultAppUIInfo = [
 		appIcon: (
 			<div className="w-[72px] h-[72px]">
 				<img
-					src="/phoneApp/facetime.png"
+					src="/phoneApp/facetime.webp"
 					alt="facetime"
 					className="w-full h-full object-contain"
 				/>
@@ -118,7 +118,7 @@ export const defaultAppUIInfo = [
 		appIcon: (
 			<div className="w-[72px] h-[72px] p-2">
 				<img
-					src="/phoneApp/itunes.png"
+					src="/phoneApp/itunes.webp"
 					alt="itunes"
 					className="w-full h-full object-contain"
 				/>
@@ -132,7 +132,7 @@ export const defaultAppUIInfo = [
 		appIcon: (
 			<div className="w-[72px] h-[72px]">
 				<img
-					src="/phoneApp/message.png"
+					src="/phoneApp/message.webp"
 					alt="message"
 					className="w-full h-full object-contain"
 				/>
@@ -146,7 +146,7 @@ export const defaultAppUIInfo = [
 		appIcon: (
 			<div className="w-[72px] h-[72px]">
 				<img
-					src="/phoneApp/phone.png"
+					src="/phoneApp/phone.webp"
 					alt="phone"
 					className="w-full h-full object-contain"
 				/>
@@ -160,7 +160,7 @@ export const defaultAppUIInfo = [
 		appIcon: (
 			<div className="w-[72px] h-[72px]">
 				<img
-					src="/phoneApp/photos.png"
+					src="/phoneApp/photos.webp"
 					alt="photos"
 					className="w-full h-full object-contain"
 				/>
@@ -174,7 +174,7 @@ export const defaultAppUIInfo = [
 		appIcon: (
 			<div className="w-[72px] h-[72px] p-1">
 				<img
-					src="/phoneApp/safari.png"
+					src="/phoneApp/safari.webp"
 					alt="safari"
 					className="w-full h-full object-contain"
 				/>
@@ -188,7 +188,7 @@ export const defaultAppUIInfo = [
 		appIcon: (
 			<div className="w-[72px] h-[72px]">
 				<img
-					src="/phoneApp/settings.png"
+					src="/phoneApp/settings.webp"
 					alt="settings"
 					className="w-full h-full object-contain"
 				/>
@@ -202,7 +202,7 @@ export const defaultAppUIInfo = [
 		appIcon: (
 			<div className="w-[72px] h-[72px]">
 				<img
-					src="/phoneApp/weather.png"
+					src="/phoneApp/weather.webp"
 					alt="weather"
 					className="w-full h-full object-contain"
 				/>
