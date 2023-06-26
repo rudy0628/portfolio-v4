@@ -11,6 +11,7 @@ import AboutPage from './PhoneAppPage/AboutPage';
 import SkillsPage from './PhoneAppPage/SkillsPage';
 import ProjectPage from './PhoneAppPage/Project/ProjectPage';
 import LanguagePage from './PhoneAppPage/LanguagePage';
+import CopyrightPage from './PhoneAppPage/CopyrightPage';
 
 const MainPage = () => {
 	const snap = useSnapshot(state);
@@ -49,6 +50,7 @@ const MainPage = () => {
 			{snap.currentApp === 'skills' && <SkillsPage />}
 			{snap.currentApp === 'projects' && <ProjectPage />}
 			{snap.currentApp === 'language' && <LanguagePage />}
+			{snap.currentApp === 'copyright' && <CopyrightPage />}
 		</AnimatePresence>
 	);
 };

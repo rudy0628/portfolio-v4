@@ -2,6 +2,7 @@ import { FiPower } from 'react-icons/fi';
 import { BsTools } from 'react-icons/bs';
 import { GrProjects } from 'react-icons/gr';
 import { IoLanguage } from 'react-icons/io5';
+import { MdOutlinePrivacyTip } from 'react-icons/md';
 
 export const appUIInfo = [
 	{
@@ -32,6 +33,12 @@ export const appUIInfo = [
 		appIcon: <IoLanguage color="black" size={42} />,
 		bgColor: 'white',
 		appName: '語言',
+	},
+	{
+		id: 'copyright',
+		appIcon: <MdOutlinePrivacyTip color="black" size={42} />,
+		bgColor: 'white',
+		appName: '版權宣告',
 	},
 ];
 
